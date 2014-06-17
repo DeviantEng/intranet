@@ -96,7 +96,7 @@
 
 	);
 	
-  $observiumcon=mysqli_connect("$config['observiumURL']","$config['observiumDBuser']","$config['observiumDBpass']","$config['observiumDBname']");
+  $observiumcon=mysqli_connect($config['observiumURL'],$config['observiumDBuser'],$config['observiumDBpass'],$config['observiumDBname']);
 if (mysqli_connect_errno())
   {
   echo "Failed to connect to MySQL: " . mysqli_connect_error();
