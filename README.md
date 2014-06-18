@@ -17,7 +17,7 @@ A simple little one-page Intranet homepage I created for my home server with the
 * Connect to Observium to poll for devices with <24H uptime
 * Completely customisable to show or hide only the features you want
 
-![screenshot](https://github.com/DeviantEng/intranet/blob/master/intranet/screenshots/screen1.png)
+![screenshot](https://raw.githubusercontent.com/DeviantEng/intranet/master/intranet/screenshots/screen1.png)
 
 ## Installation
 
